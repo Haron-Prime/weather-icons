@@ -1,23 +1,4 @@
-# PROJECT NO LONGER MAINTAINED
-Please note: Weather Icons is no longer maintained or updated here. the project is currently looking for a new owner who wants to bear the responsibility. Feel free to let me know.
-
----------------------------------------------------------------------------
-
-.
-.
-.
-.
-.
-.
-.
-
-
-
-
-
-
-# Weather Icons
-*No longer maintained*
+# THE PROJECT WAS FORKED
 
 ## 222 Weather Themed Icons and CSS
 
